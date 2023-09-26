@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- [Solution on frontendmentor.io]()
-- [Live preview]()
+- [Solution on frontendmentor.io](https://www.frontendmentor.io/solutions/faq-accordion-card-html-and-css-only-BcpUX8CRoM)
+- [Live preview](https://piwkoo.github.io/faq-accordion-card/)
 
 ## My process
 
